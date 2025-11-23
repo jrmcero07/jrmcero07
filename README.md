@@ -26,33 +26,30 @@ He agrupado mis repositorios en las siguientes categorías:
 ### 🐳 Entornos MVE para DAM/DAW
 > *Ejemplos Mínimos Viables (EMV) basados en Docker Compose*
 
-* [🛍️ **E-Commerce App**](https://github.com/TU-USUARIO/NOMBRE-REPO) - Una tienda online completa con pasarela de pagos.
-* [dashboard-admin](https://github.com/TU-USUARIO/NOMBRE-REPO) - Panel de administración con gráficos en tiempo real.
-* [landing-page-demo](https://github.com/TU-USUARIO/NOMBRE-REPO) - Maquetación responsive y animaciones.
+* Pendiente de Actualizar
 
 ### 🎮 Game Dev & Gráficos
 > *Proyectos desarrollados en Unity y C#.*
 
-* [🕹️ **Projecto Unity 1**](https://github.com/jrmcero07/NOMBRE-REPO) - Juego de plataformas 2D.
-* [🎲 **Mecánicas 3D**](https://github.com/jrmcero07/NOMBRE-REPO) - Prototipos de físicas.
+* [🕹️ **Projecto Unity 1**] - Pendiente de Actualizar
+* [🎲 **Mecánicas 3D**] - Pendiente de Actualizar
 
 ### 💻 Sistemas & Scripting
 > *Automatización con Shell Scripts y herramientas de sistema.*
 
-* [🐧 **Scripts Bash**](https://github.com/jrmcero07/NOMBRE-REPO) - Automatización en Linux.
-* [⚡ **PowerShell Tools**](https://github.com/jrmcero07/NOMBRE-REPO) - Scripts de administración Windows.
+* [🐧 **Scripts Bash**] - Pendiente de Actualizar
+* [⚡ **PowerShell Tools** - Pendiente de Actualizar
 
 ### 🏢 SGE & Bases de Datos
 > *Gestión empresarial (ERP/CRM) y Persistencia.*
 
-* [📊 **Entorno Odoo Community**](https://github.com/jrmcero07/NOMBRE-REPO) - Personalización para ERP.
-* [🗄️ **Consultas SQL**](https://github.com/jrmcero07/NOMBRE-REPO) - Prácticas avanzadas de bases de datos.
+* [📊 **Entorno Odoo Community**] Pendiente de Actualizar
+
 
 ### 🐍 Python & Automatización
 > *Scripts, bots y análisis de datos.*
 
-* [🤖 **Telegram Bot**](https://github.com/TU-USUARIO/NOMBRE-REPO) - Bot para gestión de grupos.
-* [web-scraper](https://github.com/TU-USUARIO/NOMBRE-REPO) - Extracción de datos automática de webs de noticias.
+* Pendiente de actualizar
 
 ---
 ## 🛠️ Stack Tecnológico
